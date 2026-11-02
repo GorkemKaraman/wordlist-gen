@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+wordlist*.txt
+*_wordlist*.txt
+*_auto.txt
